@@ -32,7 +32,7 @@ The **design** is your Verilog code describing the intended logic functionality.
 A **testbench** is a simulation environment that applies various inputs to your design and checks if the outputs are correct.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/93927b96-df80-4da5-b801-284fc2cc6757" alt="Design & Testbench Overview" width="70%">
+  <img src="https://github.com/Kmadhav824/RTL-Workshop/blob/main/Day_1/Netlist.png" alt="Design & Testbench Overview" width="70%">
 </div>
 
 ---
@@ -89,7 +89,7 @@ gtkwave tb_good_mux.vcd
 ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/701e8189-3101-4a82-8134-e799521b9a8b" alt="GTKWave Example" width="70%">
+  <img src="https://github.com/Kmadhav824/RTL-Workshop/blob/main/Day_1/good_mux.png" alt="GTKWave Example" width="70%">
 </div>
 
 ---
@@ -182,7 +182,7 @@ Let’s synthesize the `good_mux` design using Yosys!
     ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4b3a9939-92d0-4efc-ad69-e96faf19e6c3" alt="Yosys Gate-level Schematic" width="70%">
+  <img src="https://github.com/Kmadhav824/RTL-Workshop/blob/main/Day_1/Netlist.png" alt="Yosys Gate-level Schematic" width="70%">
 </div>
 
 ---
